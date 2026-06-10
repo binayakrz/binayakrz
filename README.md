@@ -1,87 +1,67 @@
-# 👋 Hi, I'm Binayak Timilsina
+### Hi there, I'm Binayak 👋
 
-🎓 **M.Sc. Data Science** @ HAW Kiel | 🤖 **ML & Generative AI Enthusiast** | 🔬 **Research Assistant**
+🎓 **Data Scientist** (M.Sc. Student @ HAW Kiel) | 🤖 **Generative AI & RAG** | 🔬 **Research Assistant**
 
 ---
 
-Passionate about developing and applying machine learning, statistical modeling, and generative AI technologies to solve real-world problems.
-
-## 🎓 Education
-
-- **M.Sc. Data Science** | HAW Kiel (2024 - present) | Grade: 2.1
-  - *Coursework:* Generative AI, Deep Learning, Big Data Technologies, Data Visualization, Cloud Computing
-
-- **B.E. Electrical Engineering** | Tribhuvan University, Nepal (2016 - 2021) | GPA: 73.63/100
-
-## 💼 Experience
-
-### Student Assistant @ Helmut-Schmidt University
-*May 2024 - Jun 2025*
-- Developed `MultiLevelOptimalBayes` R package for regularized Bayesian approach to optimize between-group effect estimation in multi-level latent variable models
-
-### Internship @ Kuenstliche Intelligenz SH
-*Sep 2024 - Dec 2024*
-- Developed automated, containerized data integration framework for Kiel AI lab enabling centralized access to multi-sectoral datasets
-
-### Power & Control Engineer @ Techminds Network Pvt. Ltd.
-*Oct 2021 - Sep 2023*
-- Designed and simulated industrial control and power distribution systems using MATLAB/Simulink
+I'm passionate about developing and applying machine learning, statistical modeling, and generative AI technologies to solve real-world problems. Currently working as a Student Assistant at Helmut-Schmidt University, developing Bayesian methods for multi-level latent variable models.
 
 ## 🔧 Tech Stack
 
-**Languages**
+**Languages**  
 `Python` `R` `MATLAB`
 
-**ML & Deep Learning**
-`Scikit-learn` `TensorFlow` `PyTorch` `Keras` `XGBoost`
+**Machine Learning & AI**  
+`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `Keras`
 
-**Generative AI / RAG**
-`Langchain` `OpenAI` `CLIP` `Stable Diffusion`
+**Generative AI & RAG**  
+`Langchain` `OpenAI` `CLIP` `Stable Diffusion` `RAG`
 
-**Databases**
+**Data & Tools**  
+`Docker` `Git` `GitHub` `Jupyter` `FastAPI` `Streamlit` `Flask`
+
+**Databases**  
 `MySQL` `MongoDB` `InfluxDB`
 
-**Visualization**
+**Visualization**  
 `Power BI` `Matplotlib` `Seaborn` `Plotly`
 
-**Tools & DevOps**
-`Docker` `Git` `GitHub` `Jupyter` `Anaconda`
+## 📊 GitHub Stats
 
-**Web Frameworks**
-`Flask` `FastAPI` `Streamlit`
+![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakrz&show_icons=true&theme=dark&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakrz&layout=compact&theme=dark)
 
 ## 🚀 Featured Projects
 
-### 📊 RAG Powered Stock Report Generation
-*Generative AI / Langchain*
-- Developed Generative AI framework to produce stock analysis reports with AI-generated figures
-- Implemented RAG and Langchain re-ranking with secure LLM-code execution layer
-- Integrated CLIP-guided Stable Diffusion for enhanced analytical rigor
+### 📈 RAG Powered Stock Report Generation
+> *Generative AI | Langchain | RAG | CLIP | Stable Diffusion*
 
-### 🔗 Collaboration Network Analysis of ArXiv HEP-TH
-*Data Mining*
-- Conducted network analysis of High Energy Physics Theory collaboration network
-- Identified central researchers and community structures using centrality and community detection methods
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakrz&repo=rag-stock-report&theme=dark)](https://github.com/binayakrz/rag-stock-report)
 
-## 📝 Publications
+### 🔬 MultiLevelOptimalBayes
+> *R | Bayesian Statistics | Multilevel Modeling*
 
-- Dashuk, V., **Timilsina, B.**, Hecht, M., & Zitzmann, S. (2025). *Regularized Bayesian Estimation of Multilevel Latent Variable Models with Covariates* (OSF / ResearchGate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakrz&repo=multilevel-optimal-bayes&theme=dark)](https://github.com/binayakrz/multilevel-optimal-bayes)
 
-## 🌐 Languages
+### 🌐 HEP-TH Collaboration Network Analysis
+> *Python | NetworkX | Community Detection | Data Mining*
 
-| Language | Level |
-|----------|-------|
-| English | C1 |
-| German | A2 |
-| Nepali | Native |
-| Hindi | Native |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakrz&repo=hep-network-analysis&theme=dark)](https://github.com/binayakrz/hep-network-analysis)
+
+## 📝 Latest Publication
+
+📄 **Regularized Bayesian Estimation of Multilevel Latent Variable Models with Covariates** (2025)  
+*With Dashuk, V., Hecht, M., & Zitzmann, S.*  
+[![OSF](https://img.shields.io/badge/OSF-View%20Paper-blue)](https://osf.io/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-View%20Paper-green)](https://researchgate.net/)
+
+## 🌐 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-binayakrz-181717?style=flat&logo=github)](https://github.com/binayakrz)
+[![Email](https://img.shields.io/badge/Email-binayak.timilsina001%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:binayak.timilsina001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Binayak%20Timilsina-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/binayak-timilsina)
 
 ---
 
-📫 **Connect with me**
-
-[![Email](https://img.shields.io/badge/Email-binayak.timilsina001%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:binayak.timilsina001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Binayak%20Timilsina-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/binayak-timilsina)
-[![GitHub](https://img.shields.io/badge/GitHub-binayakrz-black?style=flat&logo=github&logoColor=white)](https://github.com/binayakrz)
-
-📞 +49 01 5905395982
+⚡ **Fun fact:** I speak 4 languages - Nepali, Hindi, English, and learning German!  
+📊 **Current focus:** Building RAG systems and Bayesian multilevel models
