@@ -90,7 +90,7 @@ I'm passionate about developing and applying machine learning, statistical model
 ---
 
 ### 📈 RAG Powered Agentic Model for Report Generation of Stock Data
-ata
+
 > *Generative AI | Langchain | RAG | CLIP | Stable Diffusion*
 
 
