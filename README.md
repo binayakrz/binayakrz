@@ -76,18 +76,6 @@ I'm passionate about developing and applying machine learning, statistical model
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binayakrz&show_icons=true&theme=dark&hide_title=true&bg_color=0d1117&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayakrz&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binayakrz&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="70%" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -95,7 +83,7 @@ I'm passionate about developing and applying machine learning, statistical model
 > *R | Bayesian Statistics | Multilevel Modeling*
 
 
-🔗 **Repository:** [github.com/binayakrz/multilevel-optimal-bayes](https://github.com/binayakrz/multilevel-optimal-bayes)
+🔗 **Repository:** [github.com/binayakrz/multilevel-optimal-bayes](https://github.com/MLOB-dev/MLOB)
 - Developed R package for regularized Bayesian approach to optimize between-group effect estimation
 - Enhances small sample inference and model reliability in multi-level latent variable models
 
@@ -117,7 +105,7 @@ I'm passionate about developing and applying machine learning, statistical model
 > *Python | NetworkX | Community Detection | Data Mining*
 
 
-🔗 **Repository:** [github.com/binayakrz/hep-network-analysis](https://github.com/binayakrz/hep-network-analysis)
+🔗 **Repository:** [github.com/binayakrz/hep-network-analysis](https://github.com/binayakrz/Collaboration-network-of-Arxiv-High-Energy-Physics-Theory)
 - Conducted network analysis of High Energy Physics Theory collaboration network
 - Identified central researchers, community structures, and collaboration bridges
 - Provides key insights for research funding optimization and collaboration strategies
@@ -149,7 +137,7 @@ I'm passionate about developing and applying machine learning, statistical model
   <a href="mailto:binayak.timilsina001@gmail.com">
     <img src="https://img.shields.io/badge/Email-binayak.timilsina001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/binayak-timilsina">
+  <a href="https://www.linkedin.com/in/binayak-timilsina-b7a2b5214/">
     <img src="https://img.shields.io/badge/LinkedIn-Binayak_Timilsina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
