@@ -98,9 +98,11 @@ I'm passionate about developing and applying machine learning, statistical model
 🔗 **Repository:** [github.com/binayakrz/multilevel-optimal-bayes](https://github.com/binayakrz/multilevel-optimal-bayes)
 - Developed R package for regularized Bayesian approach to optimize between-group effect estimation
 - Enhances small sample inference and model reliability in multi-level latent variable models
+
+---
+
 ### 📈 RAG Powered Stock Report Generation
 > *Generative AI | Langchain | RAG | CLIP | Stable Diffusion*
-
 
 
 🔗 **Repository:** [github.com/binayakrz/rag-stock-report](https://github.com/binayakrz/rag-stock-report)
@@ -108,14 +110,11 @@ I'm passionate about developing and applying machine learning, statistical model
 - Implemented RAG and Langchain re-ranking with secure LLM-code execution layer
 - Integrated CLIP-guided Stable Diffusion for enhanced analytical rigor and interpretability
 
----
-
 
 ---
 
 ### 🌐 HEP-TH Collaboration Network Analysis
 > *Python | NetworkX | Community Detection | Data Mining*
-
 
 
 🔗 **Repository:** [github.com/binayakrz/hep-network-analysis](https://github.com/binayakrz/hep-network-analysis)
@@ -157,10 +156,6 @@ I'm passionate about developing and applying machine learning, statistical model
 
 ---
 
-<p align="center">
-  ⚡ <strong>Fun fact:</strong> I speak 4 languages - Nepali, Hindi, English, and learning German!<br>
-  📊 <strong>Current focus:</strong> Building RAG systems and Bayesian multilevel models
-</p>
 
 ---
 
