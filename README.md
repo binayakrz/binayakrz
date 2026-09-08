@@ -91,10 +91,17 @@ I'm passionate about developing and applying machine learning, statistical model
 
 ## 🚀 Featured Projects
 
+### 🔬 MultiLevelOptimalBayes
+> *R | Bayesian Statistics | Multilevel Modeling*
+
+
+🔗 **Repository:** [github.com/binayakrz/multilevel-optimal-bayes](https://github.com/binayakrz/multilevel-optimal-bayes)
+- Developed R package for regularized Bayesian approach to optimize between-group effect estimation
+- Enhances small sample inference and model reliability in multi-level latent variable models
 ### 📈 RAG Powered Stock Report Generation
 > *Generative AI | Langchain | RAG | CLIP | Stable Diffusion*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakrz&repo=rag-stock-report&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/binayakrz/rag-stock-report)
+
 
 🔗 **Repository:** [github.com/binayakrz/rag-stock-report](https://github.com/binayakrz/rag-stock-report)
 - Developed a Generative AI framework to produce stock analysis reports with AI-generated figures and visuals
@@ -103,21 +110,13 @@ I'm passionate about developing and applying machine learning, statistical model
 
 ---
 
-### 🔬 MultiLevelOptimalBayes
-> *R | Bayesian Statistics | Multilevel Modeling*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakrz&repo=multilevel-optimal-bayes&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/binayakrz/multilevel-optimal-bayes)
-
-🔗 **Repository:** [github.com/binayakrz/multilevel-optimal-bayes](https://github.com/binayakrz/multilevel-optimal-bayes)
-- Developed R package for regularized Bayesian approach to optimize between-group effect estimation
-- Enhances small sample inference and model reliability in multi-level latent variable models
 
 ---
 
 ### 🌐 HEP-TH Collaboration Network Analysis
 > *Python | NetworkX | Community Detection | Data Mining*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakrz&repo=hep-network-analysis&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/binayakrz/hep-network-analysis)
+
 
 🔗 **Repository:** [github.com/binayakrz/hep-network-analysis](https://github.com/binayakrz/hep-network-analysis)
 - Conducted network analysis of High Energy Physics Theory collaboration network
@@ -165,14 +164,3 @@ I'm passionate about developing and applying machine learning, statistical model
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binayakrz&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/binayakrz/binayakrz/output/snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
